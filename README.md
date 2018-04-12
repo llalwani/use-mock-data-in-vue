@@ -1,1 +1,1 @@
-# Source code for "Building Vue Apps Faster with Mock Data" tutorial
+# Source code for [How to Use Mock Data in Vue Apps](https://tahazsh.com/use-mock-data-in-vue) tutorial
